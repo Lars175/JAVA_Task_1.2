@@ -9,8 +9,6 @@
 В результате тестирования выявлены следующие дефекты:
 
 [Issues](https://github.com/Lars175/JAVA_Task_1.2/issues/1#issue-611141051)
-[Issues](https://github.com/Lars175/JAVA_Task_1.2/issues/2#issue-611684775)
-
 
 
 ### Описание процесса тестирования
